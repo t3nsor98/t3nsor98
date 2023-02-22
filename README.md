@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @t3nsor98.<br>- 🤓My name is Digbijaya Lenka<br>- 👀 I’m interested in Web Development(Specializes in Front-End and working on back-end occasionally).<br>- 🌱 I’m currently learning JavaScript libraries.<br>- 💞️ I’m looking to collaborate on web projects.<br>-✌️Feel free to reach out for any Help. Will try my best to help you.<br>- 📫 How to reach me email 📧 digbijayalenka@gmail.com and digbijaylenka@proton.me .<br><br><!---<br>t3nsor98/t3nsor98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>---><br>
+- 👋 Hi, I’m @t3nsor98.<br>- 🤓My name is Digbijaya Lenka<br>- 👀 I’m interested in Web Development(Specializes in Front-End and working on back-end occasionally).<br>- 🌱 I’m currently learning JavaScript libraries.<br>- 💞️ I’m looking to collaborate on web projects.<br>-✌️Feel free to reach out for any Help. Will try my best to help you.<br>- 📫 How to reach me email 📧 digbijayalenka@gmail.com and digbijaylenka@proton.me .<br><br><br>
 
 
 ## 🌐 Socials:
