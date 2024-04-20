@@ -1,11 +1,7 @@
 # 💫 About Me:
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtkNmc0MXNvdWp2a2lyNHRpcmZ3eDc2OWtxZWpxcmlyZ2VucGN4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Giphy GIF" style="display: block; margin: auto;"/>
 - 👋 Hi, I’m @t3nsor98.<br>- 🤓My name is Digbijaya Lenka<br>- 👀 I’m interested in Web Development(Specializes in Front-End and working on back-end occasionally).<br>- 🌱 I’m currently learning JavaScript libraries.<br>- 💞️ I’m looking to collaborate on web projects.<br>-✌️Feel free to reach out for any Help. Will try my best to help you.<br>- 📫 How to reach me email 📧 digbijayalenka@gmail.com.<br>#💻Passionate frontend developer with a strong foundation in HTML, CSS, and Bootstrap 5, as well as proficiency in JavaScript and its libraries including React and Redux. Skilled in designing responsive, user-friendly interfaces using Figma. Proficient in Node.js and Python for backend development. Adept in implementing algorithms and data structures in JavaScript. Continuously seeking to enhance my skills and knowledge in the dynamic field of web development. Let's build innovative, visually appealing and high-performing web applications together!<br><br>
-![solo leveling](https://tenor.com/byHpS.gif)
-
 <a href="https://app.daily.dev/digbijayalenka"><img src="https://api.daily.dev/devcards/v2/lOHX9NlL8qtqhwnw0onjs.png?type=wide&r=u7p" width="652" alt="DIGBIJAYA LENKA's Dev Card"/></a>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t3nsor98) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/16426327/t3nsor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DigbijayaL) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@T3NSOR) 
 
