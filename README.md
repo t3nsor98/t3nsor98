@@ -14,10 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=t3nsor98&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=t3nsor98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Chess.com Profile
-![Chess Avatar](https://some-url.com/image.png)
-### Rating: 1500
-[Visit my profile](https://www.chess.com/member/t3nsor9)
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@T3nsor/30-nites-of-code)  
