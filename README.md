@@ -6,8 +6,13 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtkNmc0MXNvdWp2a2lyNHRpcmZ3eDc2OWtxZWpxcmlyZ2VucGN4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Coding GIF" width="500"/>
 
+
 <a href="https://github.com/t3nsor98"><img src="https://img.shields.io/github/followers/t3nsor98?label=Follow&style=social" alt="GitHub followers"></a>
-<img src="https://komarev.com/ghpvc/?username=t3nsor98&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJvODBoMzUzczZoNzV3c2VyMHRsMjA5Z2o1cXkya2h4cnNtcWM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" alt="Coding GIF" width="500"/>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZnZGlnZzF0eHB1d3N2bHhhZGMyYTJ1cWtuM3pwbjMzeTFiOXc5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="500"/>
+
 
 </div>
 
@@ -159,6 +164,7 @@ Let's build innovative, visually appealing and high-performing web applications 
 ```
 
 <div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFiNTlmNTZhemxrM2o3OWhjcGZiZXB0d3JwYzRwZ3Q1bjdscjU2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="Coding GIF" width="500"/>
   
   ---
   
