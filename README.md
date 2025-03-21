@@ -170,8 +170,11 @@ Let's build innovative, visually appealing and high-performing web applications 
   
   ### 🐍 My Contribution Graph
   
-  <img src="https://github.com/t3nsor98/t3nsor98/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
+  ![Github Stats](https://greptile-stats.vercel.app/api/widget/t3nsor98/stats)
+  ![Github Contributions](https://greptile-stats.vercel.app/api/widget/t3nsor98/contributions)
+  ![Github Highlights](https://greptile-stats.vercel.app/api/widget/t3nsor98/highlights)
+  ![Github Archetype](https://greptile-stats.vercel.app/api/widget/t3nsor98/archtype)
+  ![Github Quirk](https://greptile-stats.vercel.app/api/widget/t3nsor98/quirk)
   ---
   <img src="https://profile-counter.glitch.me/{t3nsor98}/count.svg" alt="t3nsor98 :: Visitor's Count" />
   
