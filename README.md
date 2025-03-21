@@ -1,84 +1,118 @@
 <div align="center">
   
-# Hello, I'm Digbijaya Lenka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello World, I'm Digbijaya Lenka
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Web+Development+Specialist)](https://git.io/typing-svg)
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtkNmc0MXNvdWp2a2lyNHRpcmZ3eDc2OWtxZWpxcmlyZ2VucGN4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Coding GIF" width="500"/>
 
-### Frontend Developer | UI/UX Enthusiast | Web Development Specialist
+<a href="https://github.com/t3nsor98"><img src="https://img.shields.io/github/followers/t3nsor98?label=Follow&style=social" alt="GitHub followers"></a>
+<img src="https://komarev.com/ghpvc/?username=t3nsor98&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
 
+</div>
+
+<div align="center">
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/t3nsor98) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/DigbijayaL) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/16426327/t3nsor) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@T3NSOR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com)
 
 </div>
 
-## 👨‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-> Passionate frontend developer crafting responsive, user-friendly interfaces with a focus on modern web technologies.
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px"> About Me
 
-- 🚀 Specializing in Front-End development with occasional Back-End work
-- 🌱 Currently exploring advanced JavaScript libraries
-- 💞️ Open to collaborating on innovative web projects
-- 🤝 Always ready to help fellow developers - feel free to reach out!
+> "Building beautiful interfaces is not just my profession, it's my passion. I believe in creating web experiences that delight users."
+
+- 🚀 **Specializing** in Front-End development with occasional Back-End work
+- 🌱 Currently exploring **advanced JavaScript libraries and frameworks**
+- 💼 **Building** responsive and accessible web applications
+- 💞️ Open to **collaborating** on innovative web projects
+- 🤝 Always ready to **help** fellow developers - feel free to reach out!
+- 🎵 When not coding, I'm probably exploring new music or tech trends
 - 📧 Contact me: [digbijayalenka@gmail.com](mailto:digbijayalenka@gmail.com)
 
 <details>
-<summary>📝 More About My Skills</summary>
+<summary>📝 More About My Journey</summary>
 <br>
-I bring a strong foundation in HTML, CSS, and Bootstrap 5, alongside proficiency in JavaScript and its libraries including React and Redux. I'm skilled in designing responsive, user-friendly interfaces using Figma and proficient in Node.js and Python for backend development. I excel at implementing algorithms and data structures in JavaScript. I'm continuously seeking to enhance my skills in the dynamic field of web development.
+I'm a dedicated frontend developer with a passion for creating exceptional user experiences. My journey began with HTML, CSS, and JavaScript, and has evolved to embrace modern frameworks and design principles.
+
+I bring a strong foundation in HTML, CSS, and Bootstrap 5, alongside proficiency in JavaScript and its libraries including React and Redux. I'm skilled in designing responsive, user-friendly interfaces using Figma and proficient in Node.js and Python for backend development. I excel at implementing algorithms and data structures in JavaScript.
+
+I believe in continuous learning and staying updated with the latest web technologies and design trends. My goal is to create web applications that are not only visually stunning but also accessible, performant, and intuitive.
 
 Let's build innovative, visually appealing and high-performing web applications together!
 </details>
 
-## 🛠️ Technologies & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Technologies & Tools
 
 <div align="center">
-
-### Frontend
+  
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### Backend & Databases
+### 🔧 Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Cloud & Deployment
+### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Design Tools
+### 🎭 Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+
+### 🔄 DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t3nsor98&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t3nsor98&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3nsor98&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=t3nsor98&theme=tokyo-night&hide_border=true" width="100%"/>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=t3nsor98&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3nsor98&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
+  </p>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t3nsor98&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=t3nsor98&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=t3nsor98&theme=discord&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
-## 🌱 Current Challenges
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current Projects & Challenges
 
 <div align="center">
   
@@ -86,6 +120,15 @@ Let's build innovative, visually appealing and high-performing web applications 
   <a href="https://www.codedex.io/@T3nsor/30-nites-of-code">Check out my progress!</a>
   <br>
   <img src="https://www.codedex.io/api/petStatus?user=T3nsor" alt="@T3nsor #30NitesOfCode" />
+  
+  ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect & Collaborate
+  *I love connecting with different people, so if you want to say hi, I'll be happy to meet you more!*
+</div>
+
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Latest Tweets
+
+<div align="center">
+  <img src="https://gtce.itsvg.in/api?username=DigbijayaL" alt="Latest Tweet"/>
 </div>
 
 ## 💭 Dev Quote
@@ -103,11 +146,35 @@ Let's build innovative, visually appealing and high-performing web applications 
   </a>
 </div>
 
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> Recent GitHub Activity
+
+```
+<!--START_SECTION:activity-->
+1. 🚀 Pushed changes to project
+2. 🎨 Created new user interface components
+3. 🔧 Fixed responsive design issues
+4. 🧩 Implemented new features
+5. 📝 Updated documentation
+<!--END_SECTION:activity-->
+```
+
 <div align="center">
   
   ---
- [![](https://visitcount.itsvg.in/api?id=t3nsor98&icon=6&color=7)](https://visitcount.itsvg.in)
+  
+  ### 🐍 My Contribution Graph
+  
+  <img src="https://github.com/t3nsor98/t3nsor98/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  ---
+  <img src="https://visitcount.itsvg.in/api?id=t3nsor98&icon=6&color=6" alt="Profile Views" />
   
   ## 💰 Support My Work
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Digbijaya98)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com)
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 </div>
