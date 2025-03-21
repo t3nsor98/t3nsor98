@@ -173,7 +173,7 @@ Let's build innovative, visually appealing and high-performing web applications 
   <img src="https://github.com/t3nsor98/t3nsor98/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
   ---
-  <img src="https://visitcount.itsvg.in/api?id=t3nsor98&icon=6&color=6" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/{t3nsor98}/count.svg" alt="t3nsor98 :: Visitor's Count" />
   
   ## 💰 Support My Work
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Digbijaya98)
