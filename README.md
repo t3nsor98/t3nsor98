@@ -106,7 +106,7 @@ Let's build innovative, visually appealing and high-performing web applications 
 <div align="center">
   
   ---
-  <img src="https://visitcount.itsvg.in/api?id=t3nsor98&icon=6&color=7" alt="Profile Views" />
+ [![](https://visitcount.itsvg.in/api?id=t3nsor98&icon=6&color=7)](https://visitcount.itsvg.in)
   
   ## 💰 Support My Work
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Digbijaya98)
