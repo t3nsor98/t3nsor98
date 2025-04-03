@@ -111,8 +111,7 @@ Let's build innovative, visually appealing and high-performing web applications 
     <img src="https://github-readme-stats.vercel.app/api?username=t3nsor98&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3nsor98&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
   </p>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t3nsor98&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  ![t3nsor98's Streak](https://github-readme-streak-stats.herokuapp.com/?user=t3nsor98&theme=onedark&hide_border=false)
 </div>
 
 ## 🏆 GitHub Trophies
@@ -158,15 +157,6 @@ Let's build innovative, visually appealing and high-performing web applications 
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> Recent GitHub Activity
 
-```
-<!--START_SECTION:activity-->
-1. 🚀 Pushed changes to project
-2. 🎨 Created new user interface components
-3. 🔧 Fixed responsive design issues
-4. 🧩 Implemented new features
-5. 📝 Updated documentation
-<!--END_SECTION:activity-->
-```
 
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFiNTlmNTZhemxrM2o3OWhjcGZiZXB0d3JwYzRwZ3Q1bjdscjU2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="Coding GIF" width="500"/>
