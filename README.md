@@ -111,7 +111,8 @@ Let's build innovative, visually appealing and high-performing web applications 
     <img src="https://github-readme-stats.vercel.app/api?username=t3nsor98&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3nsor98&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
   </p>
-  ![t3nsor98's Streak](https://github-readme-streak-stats.herokuapp.com/?user=t3nsor98&theme=onedark&hide_border=false)
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t3nsor98&theme=onedark&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies
