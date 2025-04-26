@@ -2,7 +2,7 @@
   
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello World, I'm Digbijaya Lenka
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Web+Development+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Web+Development+Specialist;Fullstack+Developer)](https://git.io/typing-svg)
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtkNmc0MXNvdWp2a2lyNHRpcmZ3eDc2OWtxZWpxcmlyZ2VucGN4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Coding GIF" width="500"/>
 
